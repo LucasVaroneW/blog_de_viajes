@@ -1,3 +1,30 @@
+## Proyecto Blog de viajes 🚀
+El blog de viajes es un proyecto desarrollado con Node.Js y Express.Js con la finalidad que se allí se comparta la experiencia de cada usuario en sus viajes. Este blog esta desarrollado con Mysql. Además que desarrolle su propia API Rest para que otros usuarios puedan interactuar con el sitio desde otros sistemas.
+
+## Para correr la aplicación
+
+* Descargar o clonar el repositorio.
+* Instalar node.js.
+* hacer un npm install.
+* Para correr la app hacer un node app.js.
+* Para la base de datos usaremos Mysql.
+
+## Conceptos aprendidos
+* Paquetes de node.js
+* Express.js
+* Router
+* Desarrollo de API Rest
+* Desarrollo WEB con HTML, CSS, Javascript
+* Git
+* Github
+* MySQL
+* CRUD con MySQL
+* Middlewares
+* EJS
+* Posts
+* Login
+* Registro de usuarios
+
 # Editar y Eliminar
 
 ## Editar
@@ -91,3 +118,6 @@ router.get('/admin/procesar_eliminar/:id', (peticion, respuesta) => {
   })
 })
 ```
+
+## Autores
+**Lucas Varone** - [LucasVaroneW](https://github.com/LucasVaroneW)
